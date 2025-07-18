@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("ExemploFundamentos.NET8")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Propriedades, métodos e construtores")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0396ba93e4fce413f28b0bdff84046d55d3152f5")]
-[assembly: System.Reflection.AssemblyProductAttribute("ExemploFundamentos.NET8")]
-[assembly: System.Reflection.AssemblyTitleAttribute("ExemploFundamentos.NET8")]
+[assembly: System.Reflection.AssemblyProductAttribute("Propriedades, métodos e construtores")]
+[assembly: System.Reflection.AssemblyTitleAttribute("Propriedades, métodos e construtores")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Gerado pela classe WriteCodeFragment do MSBuild.

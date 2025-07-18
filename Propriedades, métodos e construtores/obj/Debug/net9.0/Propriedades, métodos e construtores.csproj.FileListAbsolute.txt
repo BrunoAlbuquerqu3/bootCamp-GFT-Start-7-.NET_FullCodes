@@ -1,0 +1,15 @@
+C:\Users\bruno\Documents\Cursos\bootCamp-GFT-Start-7-.NET_FullCodes\Propriedades, métodos e construtores\obj\Debug\net9.0\Propriedades, métodos e construtores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bruno\Documents\Cursos\bootCamp-GFT-Start-7-.NET_FullCodes\Propriedades, métodos e construtores\obj\Debug\net9.0\Propriedades, métodos e construtores.AssemblyInfoInputs.cache
+C:\Users\bruno\Documents\Cursos\bootCamp-GFT-Start-7-.NET_FullCodes\Propriedades, métodos e construtores\obj\Debug\net9.0\Propriedades, métodos e construtores.AssemblyInfo.cs
+C:\Users\bruno\Documents\Cursos\bootCamp-GFT-Start-7-.NET_FullCodes\Propriedades, métodos e construtores\obj\Debug\net9.0\Propriedades, métodos e construtores.csproj.CoreCompileInputs.cache
+C:\Users\bruno\Documents\Cursos\bootCamp-GFT-Start-7-.NET_FullCodes\Propriedades, métodos e construtores\obj\Debug\net9.0\Propriedades, métodos e construtores.sourcelink.json
+C:\Users\bruno\Documents\Cursos\bootCamp-GFT-Start-7-.NET_FullCodes\Propriedades, métodos e construtores\bin\Debug\net9.0\Propriedades, métodos e construtores.exe
+C:\Users\bruno\Documents\Cursos\bootCamp-GFT-Start-7-.NET_FullCodes\Propriedades, métodos e construtores\bin\Debug\net9.0\Propriedades, métodos e construtores.deps.json
+C:\Users\bruno\Documents\Cursos\bootCamp-GFT-Start-7-.NET_FullCodes\Propriedades, métodos e construtores\bin\Debug\net9.0\Propriedades, métodos e construtores.runtimeconfig.json
+C:\Users\bruno\Documents\Cursos\bootCamp-GFT-Start-7-.NET_FullCodes\Propriedades, métodos e construtores\bin\Debug\net9.0\Propriedades, métodos e construtores.dll
+C:\Users\bruno\Documents\Cursos\bootCamp-GFT-Start-7-.NET_FullCodes\Propriedades, métodos e construtores\bin\Debug\net9.0\Propriedades, métodos e construtores.pdb
+C:\Users\bruno\Documents\Cursos\bootCamp-GFT-Start-7-.NET_FullCodes\Propriedades, métodos e construtores\obj\Debug\net9.0\Propriedades, métodos e construtores.dll
+C:\Users\bruno\Documents\Cursos\bootCamp-GFT-Start-7-.NET_FullCodes\Propriedades, métodos e construtores\obj\Debug\net9.0\refint\Propriedades, métodos e construtores.dll
+C:\Users\bruno\Documents\Cursos\bootCamp-GFT-Start-7-.NET_FullCodes\Propriedades, métodos e construtores\obj\Debug\net9.0\Propriedades, métodos e construtores.pdb
+C:\Users\bruno\Documents\Cursos\bootCamp-GFT-Start-7-.NET_FullCodes\Propriedades, métodos e construtores\obj\Debug\net9.0\Propriedades, métodos e construtores.genruntimeconfig.cache
+C:\Users\bruno\Documents\Cursos\bootCamp-GFT-Start-7-.NET_FullCodes\Propriedades, métodos e construtores\obj\Debug\net9.0\ref\Propriedades, métodos e construtores.dll
