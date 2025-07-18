@@ -1,0 +1,15 @@
+C:\Users\bruno\Documents\Cursos\bootCamp-GFT-Start-7-.NET_FullCodes\Projeto Estacionamento\bin\Debug\net9.0\Projeto Estacionamento.exe
+C:\Users\bruno\Documents\Cursos\bootCamp-GFT-Start-7-.NET_FullCodes\Projeto Estacionamento\bin\Debug\net9.0\Projeto Estacionamento.deps.json
+C:\Users\bruno\Documents\Cursos\bootCamp-GFT-Start-7-.NET_FullCodes\Projeto Estacionamento\bin\Debug\net9.0\Projeto Estacionamento.runtimeconfig.json
+C:\Users\bruno\Documents\Cursos\bootCamp-GFT-Start-7-.NET_FullCodes\Projeto Estacionamento\bin\Debug\net9.0\Projeto Estacionamento.dll
+C:\Users\bruno\Documents\Cursos\bootCamp-GFT-Start-7-.NET_FullCodes\Projeto Estacionamento\bin\Debug\net9.0\Projeto Estacionamento.pdb
+C:\Users\bruno\Documents\Cursos\bootCamp-GFT-Start-7-.NET_FullCodes\Projeto Estacionamento\obj\Debug\net9.0\Projeto Estacionamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bruno\Documents\Cursos\bootCamp-GFT-Start-7-.NET_FullCodes\Projeto Estacionamento\obj\Debug\net9.0\Projeto Estacionamento.AssemblyInfoInputs.cache
+C:\Users\bruno\Documents\Cursos\bootCamp-GFT-Start-7-.NET_FullCodes\Projeto Estacionamento\obj\Debug\net9.0\Projeto Estacionamento.AssemblyInfo.cs
+C:\Users\bruno\Documents\Cursos\bootCamp-GFT-Start-7-.NET_FullCodes\Projeto Estacionamento\obj\Debug\net9.0\Projeto Estacionamento.csproj.CoreCompileInputs.cache
+C:\Users\bruno\Documents\Cursos\bootCamp-GFT-Start-7-.NET_FullCodes\Projeto Estacionamento\obj\Debug\net9.0\Projeto Estacionamento.sourcelink.json
+C:\Users\bruno\Documents\Cursos\bootCamp-GFT-Start-7-.NET_FullCodes\Projeto Estacionamento\obj\Debug\net9.0\Projeto Estacionamento.dll
+C:\Users\bruno\Documents\Cursos\bootCamp-GFT-Start-7-.NET_FullCodes\Projeto Estacionamento\obj\Debug\net9.0\refint\Projeto Estacionamento.dll
+C:\Users\bruno\Documents\Cursos\bootCamp-GFT-Start-7-.NET_FullCodes\Projeto Estacionamento\obj\Debug\net9.0\Projeto Estacionamento.pdb
+C:\Users\bruno\Documents\Cursos\bootCamp-GFT-Start-7-.NET_FullCodes\Projeto Estacionamento\obj\Debug\net9.0\Projeto Estacionamento.genruntimeconfig.cache
+C:\Users\bruno\Documents\Cursos\bootCamp-GFT-Start-7-.NET_FullCodes\Projeto Estacionamento\obj\Debug\net9.0\ref\Projeto Estacionamento.dll
