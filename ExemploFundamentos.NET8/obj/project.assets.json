@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\bruno\\Documents\\Cursos\\bootCamp-GFT-Start-7-.NET_Codigos\\ExemploFundamentos.NET8\\ExemploFundamentos.NET8.csproj",
+      "projectUniqueName": "C:\\Users\\bruno\\Documents\\Cursos\\bootCamp-GFT-Start-7-.NET_FullCodes\\ExemploFundamentos.NET8\\ExemploFundamentos.NET8.csproj",
       "projectName": "ExemploFundamentos.NET8",
-      "projectPath": "C:\\Users\\bruno\\Documents\\Cursos\\bootCamp-GFT-Start-7-.NET_Codigos\\ExemploFundamentos.NET8\\ExemploFundamentos.NET8.csproj",
+      "projectPath": "C:\\Users\\bruno\\Documents\\Cursos\\bootCamp-GFT-Start-7-.NET_FullCodes\\ExemploFundamentos.NET8\\ExemploFundamentos.NET8.csproj",
       "packagesPath": "C:\\Users\\bruno\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\bruno\\Documents\\Cursos\\bootCamp-GFT-Start-7-.NET_Codigos\\ExemploFundamentos.NET8\\obj\\",
+      "outputPath": "C:\\Users\\bruno\\Documents\\Cursos\\bootCamp-GFT-Start-7-.NET_FullCodes\\ExemploFundamentos.NET8\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
