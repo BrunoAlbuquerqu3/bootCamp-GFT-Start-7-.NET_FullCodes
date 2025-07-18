@@ -3,10 +3,18 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace Propriedades__métodos_e_construtores.Models
+namespace Propriedades__métodos_e_construtores_Pessoa.Models
 {
+    // Classe Pessoa
     public class Pessoa
     {
+        // Metodo Construtor
+    public Pessoa(string? nome, string? sobrenome,int idade)
+    {
+        Nome = nome;
+        Sobrenome = sobrenome;
+        Idade = idade;
+    }
         private string? _nome;
         private int _idade;
         // Propriedades
@@ -26,7 +34,7 @@ namespace Propriedades__métodos_e_construtores.Models
         public string? Sobrenome { get; set; }
 
         public int Idade
-        {   
+        {
             get => _idade;
 
             set
@@ -41,7 +49,7 @@ namespace Propriedades__métodos_e_construtores.Models
 
         public void Apresentar()
         {
-           Console.WriteLine($"Nome: {Nome} {Sobrenome}, Idade: {Idade}");
+            Console.WriteLine($"Nome: {Nome?.ToUpper()} {Sobrenome?.ToUpper()}, Idade: {Idade}");
         }
     }
 }

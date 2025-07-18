@@ -2,13 +2,14 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using Propriedades__métodos_e_construtores_Pessoa.Models;
 
-namespace Propriedades__métodos_e_construtores.Models
+namespace Propriedades__métodos_e_construtores_Curso.Models
 {
     public class Curso
     {
-        public string Nome { get; set; }
-        list<Pessoa> Alunos { get; set; }
+        public string? Nome { get; set; }
+        List<Pessoa> Alunos { get; set; } = new List<Pessoa>();
 
         public void AdicionarAluno(Pessoa aluno)
         {
@@ -18,5 +19,14 @@ namespace Propriedades__métodos_e_construtores.Models
             }
             Alunos.Add(aluno);
         }
+        public void ListaAlunos()
+        {
+            Console.WriteLine($"Alunos do curso {Nome?.ToUpper()}");
+            foreach (var aluno in Alunos)
+            {
+                aluno.Apresentar();
+            }
+        }
+        
     }
 }
