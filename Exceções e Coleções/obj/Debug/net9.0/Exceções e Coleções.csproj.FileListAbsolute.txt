@@ -1,0 +1,5 @@
+C:\Users\bruno\Documents\Cursos\bootCamp-GFT-Start-7-.NET_FullCodes\Exceções e Coleções\obj\Debug\net9.0\Exceções e Coleções.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bruno\Documents\Cursos\bootCamp-GFT-Start-7-.NET_FullCodes\Exceções e Coleções\obj\Debug\net9.0\Exceções e Coleções.AssemblyInfoInputs.cache
+C:\Users\bruno\Documents\Cursos\bootCamp-GFT-Start-7-.NET_FullCodes\Exceções e Coleções\obj\Debug\net9.0\Exceções e Coleções.AssemblyInfo.cs
+C:\Users\bruno\Documents\Cursos\bootCamp-GFT-Start-7-.NET_FullCodes\Exceções e Coleções\obj\Debug\net9.0\Exceções e Coleções.csproj.CoreCompileInputs.cache
+C:\Users\bruno\Documents\Cursos\bootCamp-GFT-Start-7-.NET_FullCodes\Exceções e Coleções\obj\Debug\net9.0\Exceções e Coleções.sourcelink.json
