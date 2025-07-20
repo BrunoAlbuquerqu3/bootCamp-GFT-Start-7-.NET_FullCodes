@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Tuplas_OperadorTernario_e_DesconstrucaoDeUmObjeto")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6138cac4705e981be6dcecbf50671ddad6a789f0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a3989c600e086973ddcee39c70bebc067475286a")]
 [assembly: System.Reflection.AssemblyProductAttribute("Tuplas_OperadorTernario_e_DesconstrucaoDeUmObjeto")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Tuplas_OperadorTernario_e_DesconstrucaoDeUmObjeto")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
