@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Tuplas_OperadorTernario_e_DesconstrucaoDeUmObjeto/1.0.0": {
+        "runtime": {
+          "Tuplas_OperadorTernario_e_DesconstrucaoDeUmObjeto.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Tuplas_OperadorTernario_e_DesconstrucaoDeUmObjeto/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

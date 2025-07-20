@@ -1,0 +1,15 @@
+C:\Users\bruno\Documents\Cursos\bootCamp-GFT-Start-7-.NET_FullCodes\Tuplas_OperadorTernario_e_DesconstrucaoDeUmObjeto\obj\Debug\net9.0\Tuplas_OperadorTernario_e_DesconstrucaoDeUmObjeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bruno\Documents\Cursos\bootCamp-GFT-Start-7-.NET_FullCodes\Tuplas_OperadorTernario_e_DesconstrucaoDeUmObjeto\obj\Debug\net9.0\Tuplas_OperadorTernario_e_DesconstrucaoDeUmObjeto.AssemblyInfoInputs.cache
+C:\Users\bruno\Documents\Cursos\bootCamp-GFT-Start-7-.NET_FullCodes\Tuplas_OperadorTernario_e_DesconstrucaoDeUmObjeto\obj\Debug\net9.0\Tuplas_OperadorTernario_e_DesconstrucaoDeUmObjeto.AssemblyInfo.cs
+C:\Users\bruno\Documents\Cursos\bootCamp-GFT-Start-7-.NET_FullCodes\Tuplas_OperadorTernario_e_DesconstrucaoDeUmObjeto\obj\Debug\net9.0\Tuplas_OperadorTernario_e_DesconstrucaoDeUmObjeto.csproj.CoreCompileInputs.cache
+C:\Users\bruno\Documents\Cursos\bootCamp-GFT-Start-7-.NET_FullCodes\Tuplas_OperadorTernario_e_DesconstrucaoDeUmObjeto\obj\Debug\net9.0\Tuplas_OperadorTernario_e_DesconstrucaoDeUmObjeto.sourcelink.json
+C:\Users\bruno\Documents\Cursos\bootCamp-GFT-Start-7-.NET_FullCodes\Tuplas_OperadorTernario_e_DesconstrucaoDeUmObjeto\bin\Debug\net9.0\Tuplas_OperadorTernario_e_DesconstrucaoDeUmObjeto.exe
+C:\Users\bruno\Documents\Cursos\bootCamp-GFT-Start-7-.NET_FullCodes\Tuplas_OperadorTernario_e_DesconstrucaoDeUmObjeto\bin\Debug\net9.0\Tuplas_OperadorTernario_e_DesconstrucaoDeUmObjeto.deps.json
+C:\Users\bruno\Documents\Cursos\bootCamp-GFT-Start-7-.NET_FullCodes\Tuplas_OperadorTernario_e_DesconstrucaoDeUmObjeto\bin\Debug\net9.0\Tuplas_OperadorTernario_e_DesconstrucaoDeUmObjeto.runtimeconfig.json
+C:\Users\bruno\Documents\Cursos\bootCamp-GFT-Start-7-.NET_FullCodes\Tuplas_OperadorTernario_e_DesconstrucaoDeUmObjeto\bin\Debug\net9.0\Tuplas_OperadorTernario_e_DesconstrucaoDeUmObjeto.dll
+C:\Users\bruno\Documents\Cursos\bootCamp-GFT-Start-7-.NET_FullCodes\Tuplas_OperadorTernario_e_DesconstrucaoDeUmObjeto\bin\Debug\net9.0\Tuplas_OperadorTernario_e_DesconstrucaoDeUmObjeto.pdb
+C:\Users\bruno\Documents\Cursos\bootCamp-GFT-Start-7-.NET_FullCodes\Tuplas_OperadorTernario_e_DesconstrucaoDeUmObjeto\obj\Debug\net9.0\Tuplas_OperadorTernario_e_DesconstrucaoDeUmObjeto.dll
+C:\Users\bruno\Documents\Cursos\bootCamp-GFT-Start-7-.NET_FullCodes\Tuplas_OperadorTernario_e_DesconstrucaoDeUmObjeto\obj\Debug\net9.0\refint\Tuplas_OperadorTernario_e_DesconstrucaoDeUmObjeto.dll
+C:\Users\bruno\Documents\Cursos\bootCamp-GFT-Start-7-.NET_FullCodes\Tuplas_OperadorTernario_e_DesconstrucaoDeUmObjeto\obj\Debug\net9.0\Tuplas_OperadorTernario_e_DesconstrucaoDeUmObjeto.pdb
+C:\Users\bruno\Documents\Cursos\bootCamp-GFT-Start-7-.NET_FullCodes\Tuplas_OperadorTernario_e_DesconstrucaoDeUmObjeto\obj\Debug\net9.0\Tuplas_OperadorTernario_e_DesconstrucaoDeUmObjeto.genruntimeconfig.cache
+C:\Users\bruno\Documents\Cursos\bootCamp-GFT-Start-7-.NET_FullCodes\Tuplas_OperadorTernario_e_DesconstrucaoDeUmObjeto\obj\Debug\net9.0\ref\Tuplas_OperadorTernario_e_DesconstrucaoDeUmObjeto.dll
