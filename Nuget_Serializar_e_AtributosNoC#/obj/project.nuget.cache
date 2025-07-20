@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "lNtrGnYhRSI=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\bruno\\Documents\\Cursos\\bootCamp-GFT-Start-7-.NET_FullCodes\\Nuget_Serializar_e_AtributosNoC#\\Nuget_Serializar_e_AtributosNoC#.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bruno\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
